@@ -71,7 +71,9 @@ growth trends, products, and regional performance.
 ### Tools Used
 **Power BI | DAX | Power Query | Data Visualization**
 
-📷 Dashboard Screenshot: Coming Soon
+### 📊 Dashboard Preview
+
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard%20screenshot.png)
 
 ---
 
