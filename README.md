@@ -49,7 +49,9 @@ attrition, workforce demographics, and performance trends.
 ### Tools Used
 **Power BI | DAX | Power Query | Data Modeling | Data Visualization**
 
-📷 Dashboard Screenshot: Coming Soon
+### 📊 Dashboard Preview
+
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard%20Screenshot.png)
 
 ---
 
