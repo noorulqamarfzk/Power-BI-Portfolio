@@ -93,7 +93,9 @@ states and identifying high-risk periods and regions.
 ### Tools Used
 **Power BI | DAX | Data Analysis | Data Visualization**
 
-📷 Dashboard Screenshot: Coming Soon
+### 📊 Dashboard Preview
+
+![Traffic Fatalities Analysis Dashboard](Traffic%20fatalities%20analysis%20Dashboard%20Screenshot.png)
 
 ---
 
