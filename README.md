@@ -55,6 +55,14 @@ attrition, workforce demographics, and performance trends.
 
 ---
 
+### 📥 Power BI File
+
+[Download HR Analytics Dashboard (.pbix)](HR%20Analytics%20Dashboard.pbix)
+
+
+
+
+
 ## 💰 2. Sales Performance Dashboard
 
 A Power BI dashboard developed to analyze sales performance,
@@ -77,6 +85,14 @@ growth trends, products, and regional performance.
 
 ---
 
+
+### 📥 Power BI File
+
+[Download Sales Performance Dashboard (.pbix)](Sales%20Performance%20Dashboard.pbix)
+
+
+
+
 ## 🚗 3. Traffic Fatalities Analysis Dashboard
 
 A Power BI dashboard analyzing traffic fatality trends across
@@ -98,6 +114,14 @@ states and identifying high-risk periods and regions.
 ![Traffic Fatalities Analysis Dashboard](Traffic%20fatalities%20analysis%20Dashboard%20Screenshot.png)
 
 ---
+
+
+### 📥 Power BI File
+
+[Download Traffic Fatalities Analysis Dashboard (.pbix)](Traffic%20fatalities%20analysis%20Dashboard.pbix)
+
+
+
 
 # 💻 Additional Project
 
