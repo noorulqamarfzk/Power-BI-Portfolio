@@ -93,32 +93,6 @@ growth trends, products, and regional performance.
 
 
 
-## 🚗 3. Traffic Fatalities Analysis Dashboard
-
-A Power BI dashboard analyzing traffic fatality trends across
-states and identifying high-risk periods and regions.
-
-### Key Features
-- Analyzed fatalities, miles driven, and fatality rates
-- Calculated fatality rate per 100 million miles
-- Performed year-over-year trend analysis
-- Identified high-risk periods and road-safety patterns
-- Created map, trend, and gauge visualizations
-- Used DAX to calculate fatality rates and performance metrics
-
-### Tools Used
-**Power BI | DAX | Data Analysis | Data Visualization**
-
-### 📊 Dashboard Preview
-
-![Traffic Fatalities Analysis Dashboard](Traffic%20fatalities%20analysis%20Dashboard%20Screenshot.png)
-
----
-
-
-### 📥 Power BI File
-
-[Download Traffic Fatalities Analysis Dashboard (.pbix)](Traffic%20fatalities%20analysis%20Dashboard.pbix)
 
 
 
